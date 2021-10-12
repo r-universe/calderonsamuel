@@ -3,13 +3,3 @@
 	url = https://github.com/calderonsamuel/universe
 	shallow = true
 	branch = HEAD
-[submodule "perumapas"]
-	path = perumapas
-	url = https://github.com/calderonsamuel/perumapas
-	shallow = true
-	registered = true
-[submodule "perupobreza2018"]
-	path = perupobreza2018
-	url = https://github.com/calderonsamuel/perupobreza2018
-	shallow = true
-	registered = true
