@@ -13,3 +13,8 @@
 	url = https://github.com/calderonsamuel/perupobreza2018
 	shallow = true
 	registered = true
+[submodule "templatesRmd"]
+	path = templatesRmd
+	url = https://github.com/calderonsamuel/templatesRmd
+	shallow = true
+	registered = true
