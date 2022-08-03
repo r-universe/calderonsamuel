@@ -9,6 +9,9 @@
     "package": "templatesRmd"
   },
   {
-    "package": "transpaeconomica"
+    "package": "perutranspaeconomica"
+  },
+  {
+    "package": "casemisc"
   }
 ]

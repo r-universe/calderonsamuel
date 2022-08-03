@@ -18,8 +18,13 @@
 	url = https://github.com/calderonsamuel/templatesRmd
 	shallow = true
 	registered = true
-[submodule "transpaeconomica"]
-	path = transpaeconomica
-	url = https://github.com/calderonsamuel/transpaeconomica
+[submodule "perutranspaeconomica"]
+	path = perutranspaeconomica
+	url = https://github.com/calderonsamuel/perutranspaeconomica
+	shallow = true
+	registered = true
+[submodule "casemisc"]
+	path = casemisc
+	url = https://github.com/calderonsamuel/casemisc
 	shallow = true
 	registered = true
