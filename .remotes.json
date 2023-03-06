@@ -1,5 +1,11 @@
 [
   {
+    "package": "firebase",
+    "url": "https://github.com/JohnCoene/firebase",
+    "via": ["appReporteAvance"],
+    "from": "appReporteAvance"
+  },
+  {
     "package": "perumapas",
     "url": "https://github.com/calderonsamuel/perumapas",
     "via": ["perupobreza2018"],
@@ -10,5 +16,11 @@
     "url": "https://github.com/calderonsamuel/perupobreza2018",
     "via": ["perumapas"],
     "from": "perumapas"
+  },
+  {
+    "package": "reportesAPI",
+    "url": "https://github.com/calderonsamuel/reportesAPI",
+    "via": ["appReporteAvance"],
+    "from": "appReporteAvance"
   }
 ]

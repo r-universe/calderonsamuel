@@ -38,3 +38,8 @@
 	url = https://github.com/calderonsamuel/appReporteAvance
 	shallow = true
 	registered = true
+[submodule "firebase"]
+	path = firebase
+	url = https://github.com/JohnCoene/firebase
+	shallow = true
+	registered = false
