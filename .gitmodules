@@ -28,3 +28,13 @@
 	url = https://github.com/calderonsamuel/casemisc
 	shallow = true
 	registered = true
+[submodule "reportesAPI"]
+	path = reportesAPI
+	url = https://github.com/calderonsamuel/reportesAPI
+	shallow = true
+	registered = true
+[submodule "appReporteAvance"]
+	path = appReporteAvance
+	url = https://github.com/calderonsamuel/appReporteAvance
+	shallow = true
+	registered = true

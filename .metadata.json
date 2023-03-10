@@ -13,5 +13,11 @@
   },
   {
     "package": "casemisc"
+  },
+  {
+    "package": "reportesAPI"
+  },
+  {
+    "package": "appReporteAvance"
   }
 ]
