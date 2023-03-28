@@ -16,11 +16,5 @@
     "url": "https://github.com/calderonsamuel/perupobreza2018",
     "via": ["perumapas"],
     "from": "perumapas"
-  },
-  {
-    "package": "reportesAPI",
-    "url": "https://github.com/calderonsamuel/reportesAPI",
-    "via": ["appReporteAvance"],
-    "from": "appReporteAvance"
   }
 ]
