@@ -1,45 +1,29 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/calderonsamuel/universe
-	shallow = true
 	branch = HEAD
 [submodule "perumapas"]
 	path = perumapas
 	url = https://github.com/calderonsamuel/perumapas
-	shallow = true
-	registered = true
 [submodule "perupobreza2018"]
 	path = perupobreza2018
 	url = https://github.com/calderonsamuel/perupobreza2018
-	shallow = true
-	registered = true
 [submodule "templatesRmd"]
 	path = templatesRmd
 	url = https://github.com/calderonsamuel/templatesRmd
-	shallow = true
-	registered = true
 [submodule "perutranspaeconomica"]
 	path = perutranspaeconomica
 	url = https://github.com/calderonsamuel/perutranspaeconomica
-	shallow = true
-	registered = true
 [submodule "casemisc"]
 	path = casemisc
 	url = https://github.com/calderonsamuel/casemisc
-	shallow = true
-	registered = true
 [submodule "reportesAPI"]
 	path = reportesAPI
 	url = https://github.com/calderonsamuel/reportesAPI
-	shallow = true
-	registered = true
 [submodule "appReporteAvance"]
 	path = appReporteAvance
 	url = https://github.com/calderonsamuel/appReporteAvance
-	shallow = true
-	registered = true
 [submodule "firebase"]
 	path = firebase
 	url = https://github.com/JohnCoene/firebase
-	shallow = true
 	registered = false
