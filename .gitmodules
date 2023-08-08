@@ -2,28 +2,28 @@
 	path = .registry
 	url = https://github.com/calderonsamuel/universe
 	branch = HEAD
+[submodule "appReporteAvance"]
+	path = appReporteAvance
+	url = https://github.com/calderonsamuel/appReporteAvance
+[submodule "casemisc"]
+	path = casemisc
+	url = https://github.com/calderonsamuel/casemisc
+[submodule "firebase"]
+	path = firebase
+	url = https://github.com/JohnCoene/firebase
+	registered = false
 [submodule "perumapas"]
 	path = perumapas
 	url = https://github.com/calderonsamuel/perumapas
 [submodule "perupobreza2018"]
 	path = perupobreza2018
 	url = https://github.com/calderonsamuel/perupobreza2018
-[submodule "templatesRmd"]
-	path = templatesRmd
-	url = https://github.com/calderonsamuel/templatesRmd
 [submodule "perutranspaeconomica"]
 	path = perutranspaeconomica
 	url = https://github.com/calderonsamuel/perutranspaeconomica
-[submodule "casemisc"]
-	path = casemisc
-	url = https://github.com/calderonsamuel/casemisc
 [submodule "reportesAPI"]
 	path = reportesAPI
 	url = https://github.com/calderonsamuel/reportesAPI
-[submodule "appReporteAvance"]
-	path = appReporteAvance
-	url = https://github.com/calderonsamuel/appReporteAvance
-[submodule "firebase"]
-	path = firebase
-	url = https://github.com/JohnCoene/firebase
-	registered = false
+[submodule "templatesRmd"]
+	path = templatesRmd
+	url = https://github.com/calderonsamuel/templatesRmd
