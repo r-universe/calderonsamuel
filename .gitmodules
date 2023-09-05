@@ -5,6 +5,9 @@
 [submodule "appReporteAvance"]
 	path = appReporteAvance
 	url = https://github.com/calderonsamuel/appReporteAvance
+[submodule "appsheet"]
+	path = appsheet
+	url = https://github.com/calderonsamuel/appsheet
 [submodule "casemisc"]
 	path = casemisc
 	url = https://github.com/calderonsamuel/casemisc
@@ -21,9 +24,6 @@
 [submodule "perutranspaeconomica"]
 	path = perutranspaeconomica
 	url = https://github.com/calderonsamuel/perutranspaeconomica
-[submodule "reportesAPI"]
-	path = reportesAPI
-	url = https://github.com/calderonsamuel/reportesAPI
 [submodule "templatesRmd"]
 	path = templatesRmd
 	url = https://github.com/calderonsamuel/templatesRmd
