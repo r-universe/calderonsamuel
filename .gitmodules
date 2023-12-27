@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/calderonsamuel/universe
 	branch = HEAD
+[submodule "SSEparser"]
+	path = SSEparser
+	url = https://github.com/calderonsamuel/SSEparser
 [submodule "appReporteAvance"]
 	path = appReporteAvance
 	url = https://github.com/calderonsamuel/appReporteAvance
