@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/calderonsamuel/universe
+	url = https://github.com/calderonsamuel/calderonsamuel.r-universe.dev
 	branch = HEAD
 [submodule "SSEparser"]
 	path = SSEparser
