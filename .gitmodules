@@ -14,10 +14,6 @@
 [submodule "casemisc"]
 	path = casemisc
 	url = https://github.com/calderonsamuel/casemisc
-[submodule "firebase"]
-	path = firebase
-	url = https://github.com/JohnCoene/firebase
-	registered = false
 [submodule "perumapas"]
 	path = perumapas
 	url = https://github.com/calderonsamuel/perumapas
